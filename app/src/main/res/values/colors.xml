@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color_minefragment_top">#20B2AA</color>
+    <color name="dark">#000000</color>
+    <color name="grope">#a0a4db</color>
+    <color name="green">#73d0bf</color>
+    <color name="blu">#73c8d0</color>
+    <color name="lblue">#bbd9ef</color>
+    <color name="pink">#fa7b7b</color>
+    <color name="inkgre">#09685d</color>
+    <color name="gre">#89c760</color>
+    <color name="oran">#eba24d</color>
+    <color name="blue">#5b63da</color>
+</resources>
